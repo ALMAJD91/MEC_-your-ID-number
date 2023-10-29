@@ -1,0 +1,3 @@
+read price1,price2
+bill=price1+price2
+print price
