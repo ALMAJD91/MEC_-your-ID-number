@@ -1,3 +1,4 @@
 read price1,price2
 bill=price1+price2
 print price
+If the total amount exceeds 50 OMR, give 5% discount: else, no discount.
